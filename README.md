@@ -1,4 +1,6 @@
 # alkfej
+Készítette: Berecz Ádám és Bossányi Máté
+
 Beadandó
 
 Feladat:
